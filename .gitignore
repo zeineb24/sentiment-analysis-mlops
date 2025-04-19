@@ -1,0 +1,5 @@
+model.joblib
+vectorizer.joblib
+__pycache__/
+*.csv
+*.xlsx
